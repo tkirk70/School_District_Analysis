@@ -19,7 +19,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   After averaging 10th-12th graders and adding that average back to the per_school_summary, Thomas High School once again finished second in overall passing %.
   
-<img width="766" alt="THS with Nans not averaged in" src="https://user-images.githubusercontent.com/46324081/146704808-7bd14772-c5a8-4033-9b8f-a45267fa2c9d.PNG">
+  <img width="766" alt="THS with Nans not averaged in" src="https://user-images.githubusercontent.com/46324081/146704808-7bd14772-c5a8-4033-9b8f-a45267fa2c9d.PNG">
 
 
 ## How does replacing the ninth-grade scores affect the following:
