@@ -12,6 +12,10 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
   All averages are lower after adding Nan values for Thomas High School 9th graders math and reading scores.
 - How is the school summary affected?
   Thomas High School scores were affected dramatically with overall passing %'s going from ~90% all the way down to 65.1%.
+  
+  <img width="795" alt="THS with Nans averaged as failures" src="https://user-images.githubusercontent.com/46324081/146704552-548d1b95-d999-41cf-bb5c-0d5b4146339f.PNG">
+  
+  
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   After averaging 10th-12th graders and adding that average back to the per_school_summary, Thomas High School once again finished second in overall passing %.
 
